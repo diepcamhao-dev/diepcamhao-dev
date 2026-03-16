@@ -16,7 +16,7 @@ Mình là một lập trình viên đam mê xây dựng các hệ thống phần
 ### 🌍 Ngôn ngữ / Languages
 * **Vietnamese:** Bản ngữ (Native)
 * **English:** Giao tiếp & đọc hiểu tài liệu chuyên ngành (Professional Working)
-* **Chinese (Tiếng Hoa / 中文):** Giao tiếp (Conversational) *(Bạn có thể tự chỉnh lại mức độ cho đúng với khả năng của mình nhé)*
+* **Chinese (Tiếng Hoa / 中文):** Giao tiếp (Conversational) 
 
 ### 🚀 Dự án tiêu biểu / Featured Projects
 * **LED Thái Dương System:** Hệ thống thương mại điện tử Monorepo phẳng (Next.js/Node.js). (Private).
